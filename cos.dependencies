@@ -2,31 +2,31 @@
     {
 	project": "CyanogenMod",	
         "repository": "android_device_samsung_galaxys2-common",
-        "target_path": "device/samsung/galaxys2-common"
+        "target_path": "device/samsung/galaxys2-common",
 	"branch": "cm-10.1"
     },
     {
 	project": "CyanogenMod",
         "repository": "android_kernel_samsung_smdk4210",
-        "target_path": "kernel/samsung/smdk4210"
+        "target_path": "kernel/samsung/smdk4210",
 	"branch": "cm-10.1"
     },
     {
 	project": "CyanogenMod",
         "repository": "android_hardware_samsung",
-        "target_path": "hardware/samsung"
+        "target_path": "hardware/samsung",
 	"branch": "cm-10.1"
     },
     {
 	project": "CyanogenMod",
         "repository": "android_packages_apps_SamsungServiceMode",
-        "target_path": "packages/apps/SamsungServiceMode"
+        "target_path": "packages/apps/SamsungServiceMode",
 	"branch": "cm-10.1"
     },
     {
         "project": "ChameleonOS"
         "repository": "android_vendor_samsung_i9100",
-        "target_path": "vendor/samsung/i9100"
+        "target_path": "vendor/samsung/i9100",
         "branch": "jellybean-mr1"
      }
 ]
